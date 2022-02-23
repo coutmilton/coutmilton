@@ -1,5 +1,8 @@
 <h1>Seja bem vindo, sou o Milton Luiz e eu sou desenvolvedor :computer:!!!</h1>
 </br>
+Sou estudante de Análise e desenvolvimento de Sistemas pela Unigran e fazendo cursos com desenvolvimento React Native na Rocketseat e de Foundations of User Experience (UX) Design na Coursera. Adoro programar e estou evoluindo cada vez mais.
+</br>
+</br>
 <div>
     <a href ="https://github.com/coutmilton">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coutmilton&show_icons=true&theme=gruvbox"/>
