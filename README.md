@@ -1,8 +1,11 @@
 <h1>Seja bem vindo, sou o Milton Luiz e eu sou desenvolvedor :computer:!!!</h1>
 </br>
+
 Sou estudante de Análise e desenvolvimento de Sistemas pela Unigran e fazendo cursos com desenvolvimento React Native na Rocketseat e de Foundations of User Experience (UX) Design na Coursera. Adoro programar e estou evoluindo cada vez mais.
+
 </br>
 </br>
+
 <div>
     <a href ="https://github.com/coutmilton">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coutmilton&show_icons=true&theme=gruvbox"/>
@@ -11,6 +14,7 @@ Sou estudante de Análise e desenvolvimento de Sistemas pela Unigran e fazendo c
 
 </br>
 </br>
+
 <h3>Skills: 🚀</h3>
 <div>
     <img align="center" alt="MiltonRN" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -31,4 +35,10 @@ Sou estudante de Análise e desenvolvimento de Sistemas pela Unigran e fazendo c
     <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </div>
 
+</br>
+
+<h3>Redes: 🔗</h3>
+<div>
+    <a href="https://www.linkedin.com/in/coutmilton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
