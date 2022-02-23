@@ -19,6 +19,7 @@ Sou estudante de Análise e desenvolvimento de Sistemas pela Unigran e fazendo c
 <div>
     <img align="center" alt="MiltonRN" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="MiltonJS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="MiltonTS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img align="center" alt="MiltonCSS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img align="center" alt="MiltonGIT" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
     <img align="center" alt="MiltonCMM" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
