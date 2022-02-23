@@ -7,13 +7,19 @@
 </div>
 
 </br>
-
-<h2 style="font-size: 5px">Me aperfeiçoando em: </h2>
-
 </br>
-
 <div>
+    <img align="center" alt="MiltonJS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="MiltonJS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" alt="MiltonCSS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+    <img align="center" alt="MiltonCSS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+    <img align="center" alt="MiltonCSS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+</div>
+
+##
+
+<div>
+    <a href="https://www.linkedin.com/in/coutmilton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="milton.luiz36@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
