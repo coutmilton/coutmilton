@@ -1,7 +1,7 @@
 <h1>Seja bem vindo, sou o Milton Luiz e eu sou desenvolvedor :computer:!!!</h1>
 </br>
 
-Me chamo Milton Luiz Da Cruz sou de Campo Grande/MS, faço faculdade de Análise e 
+Me chamo Milton, faço faculdade de Análise e 
 desenvolvimento de sistemas na Unigran e cursos extras na área de computação como 
 desenvolvimento mobile com o React Native e cursos que mexem um pouco com a interação 
 com o cliente como Foundations of User Experience (UX) Design que é ministrada pela Google.
