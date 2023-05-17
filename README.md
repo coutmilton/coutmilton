@@ -13,7 +13,6 @@ com o cliente como Foundations of User Experience (UX) Design que é ministrada 
 <div>
     <a href ="https://github.com/coutmilton">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coutmilton&show_icons=true&theme=gruvbox"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutmilton&layout=compact"/> 
 </div>
 
 </br>
