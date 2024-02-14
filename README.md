@@ -1,6 +1,6 @@
 <h1>Seja bem vindo, sou o Milton Luiz e eu sou desenvolvedor :computer:!!!</h1>
 </br>
-Formado em Analise e desenvolvimento de Sistemas pela Unigran Capital de Campo Grande - MS, na qual adquiri conhecimnentos sólidos em programação, desenvolvimentos de softwares e em como lidar com problemas complexos da área. Fui capacitado na projeção, contruçlão e implementação de software. Estou buscando desbravar a área de desenvolvimento de sites e software. 
+Formado em análise e desenvolvimento de sistemas pela Unigran Capital de Campo Grande–MS, na qual adquiri conhecimentos sólidos em programação, desenvolvimentos de softwares e em como lidar com problemas complexos da área. Fui capacitado na projeção, construção e implementação de software. Estou buscando desbravar a área de desenvolvimento de sites e software. 
 
 Obrigado por estar aqui, aproveite e olhe meus repositórios.
 
