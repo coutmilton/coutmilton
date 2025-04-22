@@ -1,48 +1,64 @@
-<h1>Seja bem vindo, sou o Milton Luiz e eu sou desenvolvedor :computer:!!!</h1>
-</br>
-Formado em análise e desenvolvimento de sistemas pela Unigran Capital de Campo Grande–MS, na qual adquiri conhecimentos sólidos em programação, desenvolvimentos de softwares e em como lidar com problemas complexos da área. Fui capacitado na projeção, construção e implementação de software. Estou buscando desbravar a área de desenvolvimento de sites e software. 
+<h1 align="center">👋 Olá! Sou o Milton Luiz</h1>
+<h3 align="center">Analista de TI e Desenvolvedor apaixonado por tecnologia e inovação 🚀</h3>
 
-Obrigado por estar aqui, aproveite e olhe meus repositórios.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+Implantação+e+Suporte;Apaixonado+por+tecnologia" alt="Typing SVG" />
+</p>
 
+---
 
+### 🧠 Sobre Mim
 
-</br>
-</br>
+- 🎯 Analista de TI com foco em desenvolvimento, implantação e suporte técnico de sistemas ERP e ITSM.
+- 🛠 Experiência sólida com Python, C++, Delphi, SQL, JavaScript e ferramentas como ServiceNow e Salesforce.
+- 💬 Trabalho voltado para excelência no atendimento ao cliente e entrega de soluções sob medida.
+- 📈 Forte atuação na geração de relatórios estratégicos, automação de tarefas e análise de dados para tomada de decisões.
+- 💼 Experiência profissional em empresas como **Ganso Sistemas** e **Unisys Global**.
+- 📊 Já desenvolvi mais de 500 relatórios personalizados em Delphi com FastReport.
 
-<div>
-    <a href ="https://github.com/coutmilton">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coutmilton&show_icons=true&theme=gruvbox"/>
-</div>
+---
 
-</br>
-</br>
+### 📚 Formação
 
-<h3>Skills: 🚀</h3>
-<div>
-    <img align="center" alt="MiltonRN" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="MiltonJS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="MiltonTS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img align="center" alt="MiltonCSS" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-    <img align="center" alt="MiltonGIT" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-    <img align="center" alt="MiltonC" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    <img align="center" alt="MiltonCMM" height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-</div>
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – **Unigran (2023)**
+- 📘 Cursando MBA em Inteligência Artificial e Big Data – **Uniderp (2025)**
 
-</br>
+---
 
-<h3>SO's: 📱</h3>
+### 🚀 Skills
 
-<div>
-    <a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-    <a href="https://www.apple.com/br/ios/ios-15/" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
-    <a href="https://www.microsoft.com/en-us/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-</div>
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+</p>
 
-</br>
+---
 
-<h3>Redes: 🔗</h3>
-<div>
-    <a href="https://www.linkedin.com/in/coutmilton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+### 💻 Sistemas Operacionais
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Contato
+
+<p align="left">
+  <a href="mailto:Milton.luiz36@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/miltondev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil! Explore meus repositórios e projetos. Estou aberto para colaborações!</p>
