@@ -21,7 +21,8 @@
 ### 📚 Formação
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – **Unigran (2023)**
-- 📘 Cursando MBA em Inteligência Artificial e Big Data – **Uniderp (2025)**
+- 📘 Pós-Graduação em MBA em Inteligência Artificial e Big Data – **Uniderp (2025)**
+- 📘 Cursando Pós-Graduação em MBA Gestão Tributária – **Uniderp (2025)**
 
 ---
 
